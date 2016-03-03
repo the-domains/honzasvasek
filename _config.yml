@@ -1,0 +1,28 @@
+name: honzasvasek
+favicon: null
+layout_spectrum: 0.1778772610705346
+typography_spectrum: 0.38004547264426947
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.43646645243279636
+  lightness: 0.5834492440335453
+  saturation: 0.23052427219226956
+  rhythmicContrast: 0.3546251398511231
+purpose: []
