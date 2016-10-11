@@ -1,28 +1,42 @@
-name: honzasvasek
-favicon: null
-layout_spectrum: 0.1778772610705346
-typography_spectrum: 0.38004547264426947
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.4586806434769147
+color:
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  brandStrength: 0.7393277976018293
+  lightness: 0.12309074005702196
+  saturation: 0.3407541914133927
+  rhythmicContrast: 0.4822727528444058
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.43646645243279636
-  lightness: 0.5834492440335453
-  saturation: 0.23052427219226956
-  rhythmicContrast: 0.3546251398511231
+layout_spectrum: 0.881520147067633
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0788b86-cce4-49a3-a9d7-f226b8eca245.png
+name: home
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: faq
+    id: b0a4f2e9-ea5e-4bd0-9df8-aad5829122c3
+    type: content
+  - name: about
+    id: 57945ce9-c7dc-476b-a853-74432f65ae20
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5720dd24-b6a1-4942-967e-0c4f53488e31.png
+title: Honza Svasek
+content: []
+description: inviting life to move in ways it has never moved before
 purpose: []
