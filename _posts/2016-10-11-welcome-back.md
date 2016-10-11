@@ -1,25 +1,27 @@
 ---
-keywords: []
-title: What is Butoh?
-datePublished: '2016-10-11T14:13:15.637Z'
-dateModified: '2016-10-11T14:03:26.589Z'
-publisher: {}
-author: []
+datePublished: '2016-10-11T14:29:39.314Z'
+sourcePath: _posts/2016-10-11-welcome-back.md
 inFeed: true
 hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-10-11T14:29:38.786Z'
+title: What is Butoh?
+publisher: {}
 description: >-
   Butoh is a shamanic performance art. It originated in Japan in the 60’s as a
   rebellion against traditional Japanese theater/dance. It was developed by
   Hijikata and Ohno. Butoh is a word and like the word Jazz, it is difficult to
   define what Butoh really is.
-via: {}
 starred: true
-sourcePath: _posts/2016-10-11-welcome-back.md
 url: what-is-butoh/index.html
-_type: MediaObject
 _context: 'http://schema.org'
+_type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18e3ff51-cad9-47af-904a-e1dd6bc0e3fa.jpg)
+
 ### What is Butoh?
 
 Butoh is a shamanic performance art. It originated in Japan in the 60's as a rebellion against traditional Japanese theater/dance. It was developed by Hijikata and Ohno. Butoh is a word and like the word Jazz, it is difficult to define what Butoh really is.
