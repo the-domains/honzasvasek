@@ -20,8 +20,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0788b86-cce4-49a3-a9d7-f226b8eca245.png
+logo: null
 name: home
 cta:
   domain: null
@@ -34,8 +33,7 @@ navigation:
   - name: about
     id: 57945ce9-c7dc-476b-a853-74432f65ae20
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5720dd24-b6a1-4942-967e-0c4f53488e31.png
+favicon: null
 title: Honza Svasek
 content: []
 description: inviting life to move in ways it has never moved before
