@@ -4,22 +4,22 @@
         <description><![CDATA[Honza Svasek]]></description>
         <link>http://honzasvasek.nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 11 Oct 2016 14:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2016 14:13:20 GMT</lastBuildDate>
         <atom:link href="http://honzasvasek.nl/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Oct 2016 14:13:07 GMT</pubDate>
+        <pubDate>Tue, 11 Oct 2016 14:13:16 GMT</pubDate>
+        <item>
+            <title><![CDATA[What is Butoh?]]></title>
+            <description><![CDATA[<article><h1>What is Butoh?</h1><h2>You are a computer scientist. How did you get interested in Butoh?</h2><p>Butoh is a shamanic performance art. It originated in Japan in the 60’s as a rebellion against traditional Japanese theater/dance. It was developed by Hijikata and Ohno. Butoh is a word and like the word Jazz, it is difficult to define what Butoh really is.</p></article>]]></description>
+            <link>http://honzasvasek.nl/what-is-butoh/index.html</link>
+            <guid isPermaLink="false">b0a4f2e9-ea5e-4bd0-9df8-aad5829122c3</guid>
+            <pubDate>Tue, 11 Oct 2016 14:13:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[about]]></title>
             <description><![CDATA[<article><h1>about</h1><p>Honza researches Butoh since 2007. He worked with some famous masters like: Itto Morita, Atsushi Takenouchi, Ken May, Yumiko Yoshioka, Yuko Ota, Imre Thormann, Iwana Masaki, Rhizome Lee, Yukio Waguri and Natsu Nakajima. He studied at the Himalaya Subbody Butoh School since 2011, and graduated spring 2016 after spending a total of two years training.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a39114ae-e4d0-4969-b276-2c570a231024.jpg"></article>]]></description>
             <link>http://honzasvasek.nl/about/index.html</link>
             <guid isPermaLink="false">57945ce9-c7dc-476b-a853-74432f65ae20</guid>
             <pubDate>Tue, 11 Oct 2016 14:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is Butoh?]]></title>
-            <description><![CDATA[<article><h1>What is Butoh?</h1><h2>You are a computer scientist. How did you get interested in Butoh?</h2><p>Butoh is a shamanic performance art. It originated in Japan in the 60’s as a rebellion against traditional Japanese theater/dance. It was developed by Hijikata and Ohno. Butoh is a word and like the word Jazz, it is difficult to define what Butoh really is.</p></article>]]></description>
-            <link>http://honzasvasek.nl/what-is-butoh/index.html</link>
-            <guid isPermaLink="false">b0a4f2e9-ea5e-4bd0-9df8-aad5829122c3</guid>
-            <pubDate>Tue, 11 Oct 2016 13:51:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
