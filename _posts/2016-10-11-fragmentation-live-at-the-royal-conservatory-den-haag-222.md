@@ -45,12 +45,12 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/36403730'
 title: 'Fragmentation live at the Royal Conservatory, Den Haag 2/2/2012'
-datePublished: '2016-10-11T15:05:52.924Z'
-dateModified: '2016-10-11T15:05:46.489Z'
+datePublished: '2016-10-11T15:06:29.219Z'
+dateModified: '2016-10-11T15:06:28.813Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-10-11-fragmentation-live-at-the-royal-conservatory-den-haag-222.md
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
