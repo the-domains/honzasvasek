@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-12T12:44:59.603Z'
+datePublished: '2016-10-12T12:46:27.917Z'
 sourcePath: _posts/2016-10-12-lunatiks-kort.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/54028299'
@@ -10,8 +10,8 @@ author:
     url: 'https://vimeo.com/konpaku'
     avatar: {}
 via: {}
-dateModified: '2016-10-12T12:44:59.371Z'
-title: lunatiks (kort)
+dateModified: '2016-10-12T12:46:27.033Z'
+title: Research
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/54028299'
     type: ios
