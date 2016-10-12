@@ -1,16 +1,13 @@
 ---
-datePublished: '2016-10-12T12:46:27.917Z'
+datePublished: '2016-10-12T13:19:49.495Z'
 sourcePath: _posts/2016-10-12-lunatiks-kort.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/54028299'
 keywords: []
 related: []
-author:
-  - name: john giskes
-    url: 'https://vimeo.com/konpaku'
-    avatar: {}
+author: []
 via: {}
-dateModified: '2016-10-12T12:46:27.033Z'
+dateModified: '2016-10-12T13:19:48.651Z'
 title: Research
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/54028299'
@@ -39,13 +36,9 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+publisher: {}
 description: >-
-  At Studio Lunatiks. Dans: Honza Svasek, Donna Svasek en John Giskes. Muziek:
+  At Studio Lunatiks. Dance: Honza Svasek, Donna Svasek en John Giskes. Music:
   Rob ten Bouwhuys.
 starred: false
 _context: 'http://schema.org'
