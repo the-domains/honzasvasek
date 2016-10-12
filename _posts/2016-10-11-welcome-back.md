@@ -1,14 +1,15 @@
 ---
-datePublished: '2016-10-11T14:56:18.190Z'
+datePublished: '2016-10-12T13:03:18.073Z'
 sourcePath: _posts/2016-10-11-welcome-back.md
 inFeed: true
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-11T14:55:58.808Z'
+dateModified: '2016-10-12T13:03:17.577Z'
 title: What is Butoh?
-publisher: {}
+publisher:
+  name: 'enjoy, copy, re-mix, share...'
 description: >-
   Butoh is a shamanic performance art. It originated in Japan in the 60’s as a
   rebellion against traditional Japanese theater/dance. It was developed by
