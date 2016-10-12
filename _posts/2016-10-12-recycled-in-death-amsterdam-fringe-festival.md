@@ -15,12 +15,12 @@ inLanguage: af
 app_links: []
 isBasedOnUrl: 'http://amsterdamfringefestival.nl/programma/recycled-in-death/'
 title: Recycled in Death - Amsterdam Fringe Festival
-datePublished: '2016-10-12T08:04:24.122Z'
-dateModified: '2016-10-12T08:04:15.068Z'
+datePublished: '2016-10-12T08:04:34.885Z'
+dateModified: '2016-10-12T08:04:34.519Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-10-12-recycled-in-death-amsterdam-fringe-festival.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
