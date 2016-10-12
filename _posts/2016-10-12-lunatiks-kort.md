@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-10-12T12:43:38.285Z'
+datePublished: '2016-10-12T12:44:40.074Z'
+sourcePath: _posts/2016-10-12-lunatiks-kort.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/54028299'
 keywords: []
@@ -9,7 +10,7 @@ author:
     url: 'https://vimeo.com/konpaku'
     avatar: {}
 via: {}
-dateModified: '2016-10-12T12:43:25.920Z'
+dateModified: '2016-10-12T12:44:39.558Z'
 title: lunatiks (kort)
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/54028299'
@@ -47,7 +48,6 @@ description: >-
   At Studio Lunatiks. Dans: Honza Svasek, Donna Svasek en John Giskes. Muziek:
   Rob ten Bouwhuys.
 starred: false
-sourcePath: _posts/2016-10-12-lunatiks-kort.md
 _context: 'http://schema.org'
 _type: VideoObject
 
