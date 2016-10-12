@@ -27,15 +27,15 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: research
+    url: 'https://thegrid.ai/butoh/'
+    type: external
   - name: about
     id: 57945ce9-c7dc-476b-a853-74432f65ae20
     type: content
   - name: faq
     id: b0a4f2e9-ea5e-4bd0-9df8-aad5829122c3
     type: content
-  - name: butoh research
-    url: 'https://thegrid.ai/butoh/'
-    type: external
 favicon: null
 title: Honza Svasek
 content: []
