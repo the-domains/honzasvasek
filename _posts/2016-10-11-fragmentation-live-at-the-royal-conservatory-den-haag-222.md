@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-12T08:12:32.302Z'
+datePublished: '2016-10-12T12:45:30.664Z'
 sourcePath: _posts/2016-10-11-fragmentation-live-at-the-royal-conservatory-den-haag-222.md
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/36403730'
@@ -10,7 +10,7 @@ author:
     url: 'https://vimeo.com/jestern'
     avatar: {}
 via: {}
-dateModified: '2016-10-12T08:12:31.398Z'
+dateModified: '2016-10-12T12:45:30.156Z'
 title: 'Fragmentation live at the Royal Conservatory, Den Haag 2/2/2012'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/36403730'
