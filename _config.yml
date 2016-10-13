@@ -27,7 +27,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: research
+  - name: 舞踏
     url: 'https://thegrid.ai/butoh/'
     type: external
   - name: about
